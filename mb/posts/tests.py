@@ -1,5 +1,3 @@
-from cgitb import reset
-from turtle import pos
 from django.test import TestCase
 from django.urls import reverse
 from .models import Post
